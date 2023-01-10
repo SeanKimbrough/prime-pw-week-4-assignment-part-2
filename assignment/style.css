@@ -21,6 +21,8 @@ h1 {
     color:darkgoldenrod;
     background-color: crimson;
     text-align: center;
+    border-color: darkgoldenrod;
+    border:4px outset goldenrod;
     
 }
 div {
