@@ -3,6 +3,7 @@
     background-color: darkgrey;
     display:inherit;
  }
+
  img {
     border-color: gold;
     border-width: 6px;
@@ -11,19 +12,16 @@
     image-orientation:2deg;
     background-color:darkgrey;
  }
- 
  p {
     color:red;
  }
- 
 h1 {
     display: block;
     color:darkgoldenrod;
     background-color: crimson;
     text-align: center;
     border-color: darkgoldenrod;
-    border:4px outset goldenrod;
-    
+    border:4px outset goldenrod;  
 }
 div {
     border:8px outset red;
@@ -31,13 +29,11 @@ div {
     color:darkgoldenrod;
     text-align: center;
 }
-
 h2 {
     display: block;
     color: darkgoldenrod;
     background-color: crimson;
     text-align: center;
-
 }
 h3 {
     display: block;
