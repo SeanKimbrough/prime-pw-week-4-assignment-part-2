@@ -1,0 +1,45 @@
+ html {
+    text-align: center;
+    background-color: darkgrey;
+    display:inherit;
+ }
+ img {
+    border-color: gold;
+    border-width: 6px;
+    border-style: solid;
+    border-radius: 1in;
+    image-orientation:2deg;
+    background-color:darkgrey;
+ }
+ 
+ p {
+    color:red;
+ }
+ 
+h1 {
+    display: block;
+    color:darkgoldenrod;
+    background-color: crimson;
+    text-align: center;
+    
+}
+div {
+    border:8px outset red;
+    background-color: crimson;
+    color:darkgoldenrod;
+    text-align: center;
+}
+
+h2 {
+    display: block;
+    color: darkgoldenrod;
+    background-color: crimson;
+    text-align: center;
+
+}
+h3 {
+    display: block;
+    color: darkgoldenrod;
+    background-color: crimson;
+    text-align: center;
+}
